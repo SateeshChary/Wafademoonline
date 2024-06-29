@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADFwafademosateesh"
+		},
+		"githubnewlinked_connectionString": {
+			"value": ""
 		}
 	}
 }
